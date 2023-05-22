@@ -1,0 +1,25 @@
+The application in general must be made of an interface in which the user and the
+system can interact. In that case the application should be able to display or compose
+the three tires. Those tires are: User Interface Services, Business Services, and Data
+Services. The system that is proposed here also explains on the same. User Interface: - The user interface part of the system interacts with the user and
+provide the user needs. In this part we have worked on implementing Gestures and
+Motion Detection from which the Actions of the user can be observed and transactions
+and processes can be made accordingly. This part as it is an interface between the user
+and the system, it needs to be well attractive and innovative such that the user gets
+involved much in its contents. The user interface works on the process, from user to
+system and the system to the user. It is the external part that the user experience from
+the system. Thus, the system is made with immersive experience along with necessary
+animations to make the system more interactive and attractive. Business Services: - This part defines about the services that is to be provided by the
+system in business point of view. Such as finance, transactions, products, etc. the
+system we have proposed here uses the finance part in which the user will be acting
+upon the banking field. Here we emphasize the process and the part that is hidden to
+the user but very much necessary for the complete transaction. This part contains the
+transaction execution part on the bank server. The bank server will be connected
+backend. Whenever the user request for banking actions such as checking balance, sending and receiving money, paying bills, recharge and so on. For these banking action
+it not only requires users’ interest but also the connectivity from the bank server on the
+user’s account. In this part the security of the transaction is also a notable criterion in
+which the transactions that they do must implement the proposed concepts and also
+with security encryption. This part will be attached with the system itself and be
+deployed for execution during the transaction process. This part basically focuses on the
+connectivity that is done back end of the system. Data Services: - This part defines about the Database connectivity. That is the data that
+is shared with the system is stores here. The data such as transactions, recent payments
